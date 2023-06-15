@@ -4,6 +4,13 @@
 
 Maze Game is an interactive game built using the Pygame library. The objective of the game is to navigate through various mazes and complete different challenges in each game mode.
 
+## Preview
+
+![photo-1](Assets/showcase-1.jpeg)
+![photo-2](Assets/showcase-1.jpeg)
+![photo-3](Assets/showcase-1.jpeg)
+
+
 ## Installation
 
 1. Clone the repository or download the source code.
